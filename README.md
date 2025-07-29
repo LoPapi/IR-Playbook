@@ -1,7 +1,7 @@
 # 🛡️ Incident Response Playbook
 
-**Author:** Kelly Samuel Jorge Esteves  
-**Role:** Cybersecurity Analyst / IT Support  
+**Author:** Kelly Esteves  
+**Role:** Cybersecurity Analyst 
 **Date:** July 2025
 
 ## 📘 Overview
