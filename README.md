@@ -24,7 +24,8 @@ This playbook outlines a complete incident response strategy for organizations l
 
 ## 📎 File Structure
 
-📁 Incident-Response-Playbook/
+📁 IR-Playbook/
+
 ├── IR_Playbook-.md
 
 ├── README.md
